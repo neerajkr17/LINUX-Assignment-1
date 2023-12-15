@@ -1,5 +1,18 @@
 **Linux commands:-**
 
+**Ls - List files and directories in the current directory.**
+
+**Cd- Change directory.**
+
+**Touch- Create empty files** 
+
+**Cp- Copy files or directories.**
+
+**Rm- Remove files or directories.**
+
+**Mv- Move or rename files or directories.**
+
+
 1. # How to make a directory.
 
 Mkdir - The mkdir command is used to create a new directory (folder) in a file system. You can use the mkdir command in a terminal or command prompt on various operating systems.
