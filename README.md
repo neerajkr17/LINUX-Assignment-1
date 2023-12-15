@@ -1,4 +1,4 @@
-**Linux commands:-**
+# Linux commands:-
 
 **Ls - List files and directories in the current directory.**
 
