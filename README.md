@@ -4,8 +4,11 @@
 
 Mkdir - The mkdir command is used to create a new directory (folder) in a file system. You can use the mkdir command in a terminal or command prompt on various operating systems.
 
+```
 mkdir neeraj
+```
 
+```
 neeraj\@neeraj-G3-3500:\~$ mkdir neeraj
 
 neeraj\@neeraj-G3-3500:\~$ ls
@@ -29,15 +32,20 @@ google-chrome-stable\_current\_amd64.deb    Templates
 google-chrome-stable\_current\_amd64.deb.1  trivy\_0.21.0\_Linux-64bit.deb
 
 linux\_signing\_key.pub                     Videos
+```
 
 ![](https://lh7-us.googleusercontent.com/bfYAipzqY8HMqr8lMFYfEb0YVgtFnfQzDZla7wo57BKZhmngnh507xFfFwLD6jF3bMjDB4EY__RCJEgh8lOn5lrkuwKT_TSCO563Wa_CCjqSNkyZJWwQdfDmX-zRGeQUbf6LEV-01TjlmtG9Lnqbnt4)
 
 2. # Remove a directory
 
+
 rmdir- It is used to remove a directory.
 
+```
 rmdir neeraj
+```
 
+```
 neeraj\@neeraj-G3-3500:\~$ rmdir neeraj
 
 neeraj\@neeraj-G3-3500:\~$ ls
@@ -61,11 +69,13 @@ google-chrome-stable\_current\_amd64.deb    trivy\_0.21.0\_Linux-64bit.deb
 google-chrome-stable\_current\_amd64.deb.1  Videos
 
 linux\_signing\_key.pub
+```
 
 ![](https://lh7-us.googleusercontent.com/4Rpp7ALVGlADigykojtVz_btYegbUcGQ5--Y-Cv83nHs_a9XFbSwt_yTMRDyBEyXws-X2ZjNvPS3YSEu0nxFmwLxsBMyNK6jp6Z82lrIxWQ9MFoLwipvtQuiei6QMaVZpZx92i3O525EFnY-s9Hwr-M)
 
 3. # Make a copy of a file
 
+```
 neeraj\@neeraj-G3-3500:\~$ mkdir work
 
 neeraj\@neeraj-G3-3500:\~$ cd work/
@@ -84,12 +94,14 @@ neeraj\@neeraj-G3-3500:\~/work$ ls neeraj/
 
 file1.txt
 
-neeraj\@neeraj-G3-3500:\~/work$ 
+neeraj\@neeraj-G3-3500:\~/work$
+```
 
 ![](https://lh7-us.googleusercontent.com/Bn0vmCZ6HnHMvvfR2fWQianDSZhvoxlWxOfLCwe_u7efRYjMyMpYQA2ampaJMmmRzkvx3v7n3dmn0UwhrmpvPV97TIKA52NUqlvRmCMANReY_noNb-mJuRppLHu8PQt73WljFOS4aButFgLI3QU4HH0)
 
 4. # Move or rename a file
 
+```
 neeraj\@neeraj-G3-3500:\~$ ls
 
 Desktop                                   Music
@@ -164,12 +176,14 @@ neeraj\@neeraj-G3-3500:\~/work$ ls
 
 file1.txt  neeraj  neerakfile
 
-neeraj\@neeraj-G3-3500:\~/work$ 
+neeraj\@neeraj-G3-3500:\~/work$
+```
 
 ![](https://lh7-us.googleusercontent.com/ADh6wkUnatmym0-QEpVNgDmZYAM5sl5FG58ogyubx77xg36ZCcP2zN9YABJfLF1cPqpSC74WH9SOX5QeSJ6axBy0atNFR1IW33VMdxnAz1-7iDw1mHH3FnVOODnfn_GPyH2xQLyG15nibLO0fMN4SkE)
 
 5. # Create an empty file
 
+```
 neeraj\@neeraj-G3-3500:\~$ touch emptyfile
 
 neeraj\@neeraj-G3-3500:\~$ touch emptyfile
@@ -195,11 +209,13 @@ get-docker.sh                             Templates
 google-chrome-stable\_current\_amd64.deb    trivy\_0.21.0\_Linux-64bit.deb
 
 google-chrome-stable\_current\_amd64.deb.1  Videos
+```
 
 ![](https://lh7-us.googleusercontent.com/oziKEP9zJLTTz4URfyN-hu_EHX3uuoy2ZKmEbBJm3zPe3PoID9zizaJpdBKaYfWYfP3QgD8Lcx-tj8LsXecOt26yp5IdrjumICrV_VOFqmk8O3b4ypR6onPHQQ8KKmnnRf6KtaGe0GEdK0_sfgI8iVc)
 
 6. # Remove multiple files with a single command
 
+```
 neeraj\@neeraj-G3-3500:\~$ touch a.txt b.txt c.txt d.txt e.txt f.txt g.txt h.txt
 
 neeraj\@neeraj-G3-3500:\~$ ls
@@ -222,12 +238,14 @@ b  d         Documents   E          g              google-chro
 
 c  Desktop   Downloads   emptyfile  get-docker.sh  h                                         k  m                      n        Pictures  q                snap  trivy\_0.21.0\_Linux-64bit.deb  Videos  x
 
-neeraj\@neeraj-G3-3500:\~$ 
+neeraj\@neeraj-G3-3500:\~$
+```
 
 ![](https://lh7-us.googleusercontent.com/0TTJMJGcb-1sloInzHIt4uCCJanXuvw8QcPcDtk-PTTpv26gheyNAQp3oVUTYoY2F1MrMBNrgZ-xzxEOrVU6xXrRMWdFCvMWa6rqPCosj5r2qoVifpt3Jhl_6IwumfaTp9F6sGk_Ud0l2iWvSczoFlI)
 
 7. # Remove content from the folder without removing folder
 
+```
 neeraj\@neeraj-G3-3500:\~$ ls
 
 Desktop                                   Music
@@ -267,6 +285,7 @@ neeraj\@neeraj-G3-3500:\~/work$ ls
 file1.txt  neeraj
 
 neeraj\@neeraj-G3-3500:\~/work$ 
+```
 
 ![](https://lh7-us.googleusercontent.com/dpgUOTGxXov8fC5zSRhm7jnXj-Ae57scrAGsJsgTRfwr8kl0nKpPXAG5KJ9_zFoKykasmltKoPCmbrcAcJgBsSrxZSIQLfJM1oFF2lMd_HWLGowO-MjChgOnsmgXUMzkITHwm9eFtyKT7ZVYyhtRXOg)
 
@@ -278,10 +297,13 @@ mkdir:- this command is used to make a directory.
 
 Brace expansion in the shell is a feature that allows you to generate a sequence of text or values by specifying a range or a list within curly braces { }.
 
+```
 mkdir {a..z}
 
 ls
+```
 
+```
 neeraj\@neeraj-G3-3500:\~$  mkdir {a..z}
 
 neeraj\@neeraj-G3-3500:\~$ ls
@@ -333,5 +355,6 @@ l                                         y
 linux\_signing\_key.pub                     z
 
 m
+```
 
 ![](https://lh7-us.googleusercontent.com/nCMLnSkay826OX24UdVsEHVe2iD8Fzi1gI09ghxtRViQUkYURpNjkBUSugdEswOWc9gOtfhKL93JdXKTwFKudDZgVm5IfHPFBNjvJRHCFiCZMchNq0Fq2181SUJpgW0xoJuDQHbkYS1lxqCVWKtmhmg)
